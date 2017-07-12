@@ -1,0 +1,42 @@
+x Template : title
+x Template : xsection
+x Template : xsubsection
+x Template : xframe (basic)
+x Cleaning : title
+x Manage UpperCaseWithNewLine
+x Dimensions
+  x title
+  x xsection
+  x xsubsection
+  x xframe
+  x checks by dircom
+x One real color theme
+x Add the other themes
+x Manage no-number in section
+x Manage no-subtitle in subsection
+x No xframe : directly frame
+x Blocks
+
+x makerelease script
+x lighter release archive (remove exemple.tex and unnecessary pictures)
+x install scripts (step by step)
+x add font support for lualatex/linux first (we'll see then for other distribs)
+x default color theme                                                                     <  Aborted :
+  the user can choose a default color theme, and it defines the \section and               | This would also require choosing a default picture,
+  \subsection commands                                                                     | and doesn't seem to fit the situations I imagine.
+  if the user doesn't choose, the \section and \subsection commands remain unchanged       \____________________________________________________
+x install script for windows
+- test font support on windows                                                            <  Partially tested. Waiting for more feedback.
+                                                                                           \____________________________________________________
+
+x integration of another logo : stack with horizontal logo of the school                  <  Waiting for feedback :
+                                                                                           | Sent a few proposals to the Direction of
+                                                                                           | communication.
+                                                                                           \____________________________________________________
+
+x integration of a company name : with ÉCOLE POLYTECHNIQUE - COMPANY - ...
+x aspectratio=43 version
+o thank you frame ?
+o study more the colors in picframes
+o switch to beamer theme ?
+o switch to class ?
